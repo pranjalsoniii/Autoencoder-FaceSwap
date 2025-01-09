@@ -19,7 +19,7 @@ To run this project, ensure the following dependencies are installed:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/autoencoder-image-transformation.git
+   git clone https://github.com/your-repo/autoencoder-image-transformation.git](https://github.com/pranjalsoniii/Autoencoder-FaceSwap.git
    ```
 2. Navigate to the project directory:
    ```bash
